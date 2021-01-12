@@ -1,0 +1,3 @@
+﻿  queue.c
+C:\Users\Oh Won Jin\source\repos\database.4\database.4\queue.c(59,12): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  database.4.vcxproj -> C:\Users\Oh Won Jin\source\repos\database.4\Debug\database.4.exe
