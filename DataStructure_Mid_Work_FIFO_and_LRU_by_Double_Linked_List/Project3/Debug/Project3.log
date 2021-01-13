@@ -1,0 +1,5 @@
+﻿  answer.c
+C:\Users\Oh Won Jin\source\repos\DataStructure_Mid_Work_FIFO_and_LRU_by_Double_Linked_List\Project3\answer.c(127,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+C:\Users\Oh Won Jin\source\repos\DataStructure_Mid_Work_FIFO_and_LRU_by_Double_Linked_List\Project3\answer.c(127,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\Oh Won Jin\source\repos\DataStructure_Mid_Work_FIFO_and_LRU_by_Double_Linked_List\Project3\answer.c(127,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  Project3.vcxproj -> C:\Users\Oh Won Jin\source\repos\DataStructure_Mid_Work_FIFO_and_LRU_by_Double_Linked_List\Debug\Project3.exe
